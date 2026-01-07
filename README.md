@@ -25,6 +25,6 @@
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/yourusername/yt2notes.git](https://github.com/yourusername/yt2notes.git)
+git clone https://github.com/Ayush-Zone/yt2notes
 cd yt2notes
 pip install youtube-transcript-api google-genai requests pdfitdown
