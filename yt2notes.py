@@ -12,7 +12,6 @@ import html
 # -------------------------------------------------
 GEMINI_API_KEY = "Your API Key Here"
 GEMINI_MODEL = "gemini-2.5-flash"
-# OUTPUT_FILE will now be determined dynamically
 
 # -------------------------------------------------
 # HELPER: GET TITLE & SANITIZE
